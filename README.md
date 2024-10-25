@@ -1,11 +1,10 @@
 ## Intro
 - Name: Kovu Bentley
 - Pronouns: he/him
-- Age: 22
 - I'm looking to collaborate on projects related to:
     - AI
     - Full stack
-    - any sort of games (web, pc, console)
+    - any sort of games (web, pc, console, mobile)
 
 Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of my projects
 ## Current Projects
