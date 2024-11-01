@@ -13,7 +13,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
 | ---------------- | ------ |
 | [Mentor Schedule Maker](https://github.com/BlckHawker/Mentor-Schedule-Maker)        |   Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.
 | [KTANE FAQ Bot](https://github.com/Qkrisi/ktanecord)           |   An interactive discord bot that will answer frequently asked questions related to KTANE modding.
-| [KTANE maintainer](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Matains the [repository of manuals pages](https://ktane.timwi.de) for KTANE
+| [KTANE Maintainer](https://github.com/Timwi/KtaneContent) | Matains the [repository of manuals pages](https://ktane.timwi.de) for KTANE
 
 ## GitHub Stats
 **Disclaimer**: All of these statistics are based off my public repositories and does not include forked repositories. They do not fully reflect my skills, but they give a glimpse of what I can do.
