@@ -11,6 +11,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
 
 | Name              | Desription |
 | ---------------- | ------ |
+| [Discord Link Parser](https://github.com/BlckHawker/Link-Parser)|Discord Bot that automatically parses media links (such as twitter/x, tiktok, instagram) so the are "fixed" (content of link can be seen in discord with needing to login or being redirected)|  
 | [Mentor Schedule Maker](https://github.com/BlckHawker/Mentor-Schedule-Maker)        |   Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.
 | [KTANE FAQ Bot](https://github.com/Qkrisi/ktanecord)           |   An interactive discord bot that will answer frequently asked questions related to KTANE modding.
 | [KTANE Maintainer](https://github.com/Timwi/KtaneContent) | Matains the [repository of manuals pages](https://ktane.timwi.de) for KTANE
