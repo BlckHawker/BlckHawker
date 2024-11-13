@@ -1,5 +1,5 @@
 ## Intro
-- Name: Kovu Bentley
+- Name: Kovu Jackson-Bentley
 - Pronouns: he/him
 - I'm looking to collaborate on projects related to:
     - AI
