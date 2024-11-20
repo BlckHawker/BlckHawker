@@ -55,9 +55,6 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
 ## GitHub Stats
 **Disclaimer**: All of these statistics are based off my public repositories. They do not fully reflect my skills, but they give a glimpse of what I can do.
 
-## GitHub Stats
-**Disclaimer**: All of these statistics are based off my public repositories. They do not fully reflect my skills, but they give a glimpse of what I can do.
-
 
 [![Kovu Bentley's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlckHawker&theme=github-compact&custom_title=Contribution%20Graph&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
