@@ -9,13 +9,48 @@
 Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of my projects
 ## Current Projects
 
-| Name                                                                         | Description                                                                                                                                                                                    | Status                                                                                                          |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [Stardew Valley 100% Percent Mod](https://github.com/BlckHawker/Perfectionist-Interactive-Guide)             | This Stardew mod that will tell the user what to do in order to 100% the game | **In Progress** - Working on the MVP 
-| [Discord Link Parser](https://github.com/BlckHawker/Link-Parser)             | Discord Bot that automatically parses media links (such as twitter/x, tiktok, instagram) so the are "fixed" (content of link can be seen in discord with needing to login or being redirected) | **In Progress** - In a functional state, but missing some QoL enhancements                                                                                                     |
-| [Mentor Schedule Maker](https://github.com/BlckHawker/Mentor-Schedule-Maker) | Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.                                                                                         | **On Hiatus** - Due to team availability, the project is temporarily paused. Work will resume in early January. |
-| [KTANE FAQ Bot](https://github.com/Qkrisi/ktanecord)                         | An interactive discord bot that will answer frequently asked questions related to KTANE modding.                                                                                                                                                         |  **On Hiatus** - Repo owner is unavailable. Need them to accept and merge the PR.                                                                                                               | 
-|                [KTANE Maintainer](https://github.com/Timwi/KtaneContent)                                                                |     Maintains the [repository of manuals pages](https://ktane.timwi.de) for KTANE                                                                                                                                                                                           | **Indefinite** - This is a maintenance  role, meaning there will always be something to do.                                                                                                                 |
+<table>
+  <tr>
+   <td><strong>Name</strong>
+   </td>
+   <td><strong>Description</strong>
+   </td>
+   <td><strong>Status</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/BlckHawker/Perfectionist-Interactive-Guide">Stardew Valley 100% Percent Mod</a>
+   </td>
+   <td>This Stardew mod that will tell the user what to do in order to 100% the game
+   </td>
+   <td>In Progress - Working on the MVP
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/BlckHawker/Mentor-Schedule-Maker">Mentor Schedule Maker</a>
+   </td>
+   <td>Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.
+   </td>
+   <td>On Hiatus - Due to team availability, the project is temporarily paused. Work will resume in early January.
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/Qkrisi/ktanecord">KTANE FAQ Bot</a>
+   </td>
+   <td>An interactive discord bot that will answer frequently asked questions related to KTANE modding.
+   </td>
+   <td>On Hiatus - Repo owner is unavailable. Need them to accept and merge the PR.
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/Timwi/KtaneContent">KTANE Maintainer</a>
+   </td>
+   <td>Maintains the <a href="https://ktane.timwi.de/">repository of manuals pages</a> for KTANE
+   </td>
+   <td>Indefinite - This is a maintenance role, meaning there will always be something to do.
+   </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 **Disclaimer**: All of these statistics are based off my public repositories. They do not fully reflect my skills, but they give a glimpse of what I can do.
