@@ -21,9 +21,9 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
   <tr>
    <td><a href="https://github.com/BlckHawker/Perfectionist-Interactive-Guide">Stardew Valley 100% Percent Mod</a>
    </td>
-   <td>This Stardew mod that will tell the user what to do in order to 100% the game
+   <td>This Stardew mod that will tell the user what to do in order to 100% the game.
    </td>
-   <td>In Progress - Working on the MVP
+   <td><b>In Progress</b> - Working on the MVP.
    </td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
    <td>Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.
    </td>
-   <td>On Hiatus - Due to team availability, the project is temporarily paused. Work will resume in early January.
+   <td><b>On Hiatus</b> - Due to team availability, the project is temporarily paused. Work will resume in early January.
    </td>
   </tr>
   <tr>
@@ -39,15 +39,15 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
    <td>An interactive discord bot that will answer frequently asked questions related to KTANE modding.
    </td>
-   <td>On Hiatus - Repo owner is unavailable. Need them to accept and merge the PR.
+   <td><b>On Hiatus</b> - Repo owner is unavailable. Need them to accept and merge the PR.
    </td>
   </tr>
   <tr>
    <td><a href="https://github.com/Timwi/KtaneContent">KTANE Maintainer</a>
    </td>
-   <td>Maintains the <a href="https://ktane.timwi.de/">repository of manuals pages</a> for KTANE
+   <td>Maintains the <a href="https://ktane.timwi.de/">repository of manuals pages</a> for KTANE.
    </td>
-   <td>Indefinite - This is a maintenance role, meaning there will always be something to do.
+   <td><b>Indefinite</b> - This is a maintenance role, meaning there will always be something to do.
    </td>
   </tr>
 </table>
