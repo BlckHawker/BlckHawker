@@ -35,14 +35,6 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Qkrisi/ktanecord">KTANE FAQ Bot</a>
-   </td>
-   <td>An interactive discord bot that will answer frequently asked questions related to KTANE modding.
-   </td>
-   <td><b>On Hiatus</b> - Repo owner is unavailable. Need them to accept and merge the PR.
-   </td>
-  </tr>
-  <tr>
    <td><a href="https://github.com/Timwi/KtaneContent">KTANE Maintainer</a>
    </td>
    <td>Maintains the <a href="https://ktane.timwi.de/">repository of manuals pages</a> for KTANE.
