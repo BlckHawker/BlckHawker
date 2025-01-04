@@ -31,7 +31,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
    <td>Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.
    </td>
-   <td><b>On Hiatus</b> - Due to team availability, the project is temporarily paused. Work will resume in early January.
+   <td><b>In Progress</b> - Onboarding team members
    </td>
   </tr>
   <tr>
