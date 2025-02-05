@@ -18,26 +18,34 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    <td><strong>Status</strong>
    </td>
   </tr>
+<tr>
+   <td><a href="https://github.com/BlckHawker/Project-Generator" target="_blank">Project Generator</a>
+   </td>
+   <td>This will be a website with a GUI in order to make editing the JSON I use for my projects on my <a href="https://blckhawker.github.io/portfolio/" target="_blank">portfolio</a> easier to manage. 
+   </td>
+   <td><b>In Progress</b> - Planning out the layout
+   </td>
+  </tr>
   <tr>
-   <td><a href="https://github.com/BlckHawker/Perfectionist-Interactive-Guide">Stardew Valley 100% Percent Mod</a>
+   <td><a href="https://github.com/BlckHawker/Perfectionist-Interactive-Guide" target="_blank">Stardew Valley 100% Percent Mod</a>
    </td>
    <td>This Stardew mod that will tell the user what to do in order to 100% the game.
    </td>
-   <td><b>In Progress</b> - Working on the MVP.
+   <td><b>In Progress</b> - Working on tasks that will get the player a stable source of money
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/BlckHawker/Mentor-Schedule-Maker">Mentor Schedule Maker</a>
+   <td><a href="https://github.com/BlckHawker/Mentor-Schedule-Maker" target="_blank">Mentor Schedule Maker</a>
    </td>
    <td>Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.
    </td>
-   <td><b>In Progress</b> - Onboarding team members
+   <td><b>On Hiatus</b> - Memebers are currently too busy to work on the project
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/Timwi/KtaneContent">KTANE Maintainer</a>
+   <td><a href="https://github.com/Timwi/KtaneContent" target="_blank">KTANE Maintainer</a>
    </td>
-   <td>Maintains the <a href="https://ktane.timwi.de/">repository of manuals pages</a> for KTANE.
+   <td>Maintains the <a href="https://ktane.timwi.de/" target="_blank">repository of manuals pages</a> for KTANE.
    </td>
    <td><b>Indefinite</b> - This is a maintenance role, meaning there will always be something to do.
    </td>
