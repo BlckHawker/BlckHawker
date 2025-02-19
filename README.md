@@ -23,7 +23,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
    <td>This will be a website with a GUI in order to make editing the JSON I use for my projects on my <a href="https://blckhawker.github.io/portfolio/" target="_blank">portfolio</a> easier to manage. 
    </td>
-   <td><b>In Progress</b> - Implenting functionality for fool-proofing
+   <td><b>In Progress</b> - Fixing bugs related to importing jsons and validation
    </td>
   </tr>
   <tr>
