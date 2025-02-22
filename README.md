@@ -18,14 +18,6 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    <td><strong>Status</strong>
    </td>
   </tr>
-<tr>
-   <td><a href="https://github.com/BlckHawker/Project-Generator" target="_blank">Project Generator</a>
-   </td>
-   <td>This will be a website with a GUI in order to make editing the JSON I use for my projects on my <a href="https://blckhawker.github.io/portfolio/" target="_blank">portfolio</a> easier to manage. 
-   </td>
-   <td><b>In Progress</b> - Fixing bugs related to importing jsons and validation
-   </td>
-  </tr>
   <tr>
    <td><a href="https://github.com/BlckHawker/Perfectionist-Interactive-Guide" target="_blank">Stardew Valley 100% Percent Mod</a>
    </td>
