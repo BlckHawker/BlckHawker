@@ -19,30 +19,31 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
   </tr>
   <tr>
+   <td><a href="https://github.com/BlckHawker/Revelations" target="_blank">Persona 5X Revelation Cards Selector</a>
+   </td>
+   <td>Scans revelations cards from users' inventory, and assigns them to selected character(s) for maximized optimization.
+   </td>
+   <td><b>In progress</b> - MVP features under development.
+   </td>
+  </tr>
+  <tr>
+    <tr>
+   <td><a href="https://github.com/BlckHawker/Productivity-App" target="_blank">Unamed Productivity App</a>
+   </td>
+   <td>Cross-platform task management app designed for detailed planning, recurring tasks, filters, and analytics.
+   </td>
+   <td><b>In progress</b> - Project plan and roadmap currently being drafted.
+   </td>
+  </tr>
+  <tr>
    <td><a href="https://github.com/BlckHawker/Perfectionist-Interactive-Guide" target="_blank">Stardew Valley 100% Percent Mod</a>
    </td>
-   <td>This Stardew mod that will tell the user what to do in order to 100% the game.
+   <td>A mod for Stardew Valley that guides players step-by-step through achieving full game completion in game.
    </td>
-   <td><b>In Progress</b> - Working on tasks that will get the player a stable source of money
+   <td><b>On Hiatuis</b> - While MVP is functional, a structured project roadmap  must be created before continuing development.
    </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/BlckHawker/Mentor-Schedule-Maker" target="_blank">Mentor Schedule Maker</a>
-   </td>
-   <td>Generates all possibility of weekly reoccuring schedules given all mentors' (employees') availability.
-   </td>
-   <td><b>On Hiatus</b> - Memebers are currently too busy to work on the project
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/Timwi/KtaneContent" target="_blank">KTANE Maintainer</a>
-   </td>
-   <td>Maintains the <a href="https://ktane.timwi.de/" target="_blank">repository of manuals pages</a> for KTANE.
-   </td>
-   <td><b>Indefinite</b> - This is a maintenance role, meaning there will always be something to do.
-   </td>
-  </tr>
 </table>
+
 
 ## GitHub Stats
 **Disclaimer**: All of these statistics are based off my public repositories. They do not fully reflect my skills, but they give a glimpse of what I can do.
