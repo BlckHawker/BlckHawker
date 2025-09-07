@@ -23,7 +23,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
    <td>Budgeting app that focuses on keep user accountaible in terms of budgeting catgories
    </td>
-   <td><b>In progress</b> - Draft of project plan created. Finishing other projects to not overwork.
+   <td><b>Planning</b> - Draft of project plan created. Finishing other projects to not overwork.
    </td>
   </tr>
   </tr>
