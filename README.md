@@ -49,7 +49,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
    <td>Cross-platform task management app designed for detailed planning, recurring tasks, filters, and analytics.
    </td>
-   <td><b>In progress</b> - Repository foundation being implemented.
+   <td><b>In progress</b> - Creating CRUD design for database tables.
    </td>
   </tr>
   <tr>
