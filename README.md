@@ -17,6 +17,23 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
    <td><strong>Status</strong>
    </td>
+     </tr>
+    <tr>
+   <td>Budgeting App
+   </td>
+   <td>Budgeting app that focuses on keep user accountaible in terms of budgeting catgories
+   </td>
+   <td><b>In progress</b> - Draft of project plan created. Finishing other projects to not overwork.
+   </td>
+  </tr>
+  </tr>
+    <tr>
+   <td><a href="https://github.com/BlckHawker/Balatro-Joker-Finder" target="_blank">Balatro Joker Finder</a>
+   </td>
+   <td>Check the seed and states when the the user is going to find a specified joker.
+   </td>
+   <td><b>In progress</b> - MVP features under development.
+   </td>
   </tr>
   <tr>
    <td><a href="https://github.com/BlckHawker/Revelations" target="_blank">Persona 5X Revelation Cards Selector</a>
