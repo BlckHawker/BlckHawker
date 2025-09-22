@@ -35,14 +35,7 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    <td><b>In progress</b> - MVP features under development.
    </td>
   </tr>
-  <tr>
-   <td><a href="https://github.com/BlckHawker/Revelations" target="_blank">Persona 5X Revelation Cards Selector</a>
-   </td>
-   <td>Scans revelations cards from users' inventory, and assigns them to selected character(s) for maximized optimization.
-   </td>
-   <td><b>In progress</b> - MVP features under development.
-   </td>
-  </tr>
+
   <tr>
     <tr>
    <td><a href="https://github.com/BlckHawker/Productivity-App" target="_blank">Unamed Productivity App</a>
@@ -52,12 +45,20 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    <td><b>In progress</b> - Creating CRUD design for database tables.
    </td>
   </tr>
+    <tr>
+   <td><a href="https://github.com/BlckHawker/Revelations" target="_blank">Persona 5X Revelation Cards Selector</a>
+   </td>
+   <td>Scans revelations cards from users' inventory, and assigns them to selected character(s) for maximized optimization.
+   </td>
+   <td><b>On hiatus</b> - Fell out of love for the game due to how inferior the global version compare to others. Will implement once 
+   </td>
+  </tr>
   <tr>
    <td><a href="https://github.com/BlckHawker/Perfectionist-Interactive-Guide" target="_blank">Stardew Valley 100% Percent Mod</a>
    </td>
    <td>A mod for Stardew Valley that guides players step-by-step through achieving full game completion in game.
    </td>
-   <td><b>On Hiatuis</b> - While MVP is functional, a structured project roadmap  must be created before continuing development.
+   <td><b>On hiatuis</b> - While MVP is functional, a structured project roadmap  must be created before continuing development.
    </td>
 </table>
 
