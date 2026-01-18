@@ -19,23 +19,14 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
      </tr>
     <tr>
-   <td>Budgeting App
+   <td><a href="https://github.com/BlckHawker/Budget-Tracker" target="_blank">Budgeting App Finder</a>
    </td>
    <td>Budgeting app that focuses on keep user accountaible in terms of budgeting catgories
    </td>
-   <td><b>Planning</b> - Draft of project plan created. Finishing other projects to not overwork.
+   <td><b>In Progress</b> - Slowly making project skeleton.
    </td>
   </tr>
   </tr>
-    <tr>
-   <td><a href="https://github.com/BlckHawker/Balatro-Joker-Finder" target="_blank">Balatro Joker Finder</a>
-   </td>
-   <td>Check the seed and states when the the user is going to find a specified joker.
-   </td>
-   <td><b>In progress</b> - MVP features under development.
-   </td>
-  </tr>
-
   <tr>
     <tr>
    <td><a href="https://github.com/BlckHawker/Productivity-App" target="_blank">Unamed Productivity App</a>
@@ -46,11 +37,19 @@ Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of 
    </td>
   </tr>
     <tr>
+        <tr>
+   <td><a href="https://github.com/BlckHawker/Balatro-Joker-Finder" target="_blank">Balatro Joker Finder</a>
+   </td>
+   <td>Check the seed and states when the the user is going to find a specified joker.
+   </td>
+   <td><b>On hiatuis</b> - Internal code of the game seems to be obfuscated, leading to development diffcult. When I have more time, I will come back to this.
+   </td>
+  </tr>
    <td><a href="https://github.com/BlckHawker/Revelations" target="_blank">Persona 5X Revelation Cards Selector</a>
    </td>
    <td>Scans revelations cards from users' inventory, and assigns them to selected character(s) for maximized optimization.
    </td>
-   <td><b>On hiatus</b> - Fell out of love for the game due to how inferior the global version compare to others. Will implement once 
+   <td><b>On hiatus</b> - Fell out of love for the game due to how inferior the global version compare to others. Will implement once the game is in a better state.
    </td>
   </tr>
   <tr>
