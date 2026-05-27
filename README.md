@@ -6,7 +6,7 @@
     - Full stack
     - any sort of games (web, pc, console, mobile)
 
-Check out my [portfolio](https://blckhawker.github.io/portfolio/) to see all of my projects
+Check out my [portfolio](https://kovujacksonbentley.com) to see all of my projects
 ## Current Projects
 
 <table>
