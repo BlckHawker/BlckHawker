@@ -69,8 +69,8 @@ Check out my [portfolio](https://kovujacksonbentley.com) to see all of my projec
 [![Kovu Jackson-Bentley's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlckHawker&theme=github-compact&custom_title=Contribution%20Graph&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BlckHawker&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=BlckHawker&layout=compact&langs_count=10&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center"  src="https://github-stats-extended.vercel.app/api?username=BlckHawker&hide=stars&show_icons=true&theme=transparent&custom_title=GitHub%20Stats" />
+  <img height=180 align="center"  src="https://github-stats-extended.vercel.app/api?username=BlckHawker&show_icons=true&theme=transparent" />
 </a>
